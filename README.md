@@ -12,4 +12,4 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ### Support or Contact
 
-Having trouble with repo? Check out our [documentation](https://github.com/AurangzaibRamzan/Lays-UI) or [contact support](mailto: aurangzaib987@gmail.com).
+Having trouble with repo? Check out our [documentation](https://github.com/AurangzaibRamzan/Lays-UI) or contact Support  aurangzaib987@gmail.com
