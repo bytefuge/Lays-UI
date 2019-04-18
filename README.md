@@ -18,6 +18,5 @@ The process of submitting a pull request is fairly straightforward and generally
 #### Double check your submission
 #### Push your changes
 #### Submit the pull request
-#### Details about each step are found below.
 
  ### Having trouble with repo? Check out our documentation or contact Support aurangzaib987@gmail.com
