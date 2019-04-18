@@ -8,10 +8,16 @@
 
 Contributors are welcome to work
 
+### Working with Code
+The process of submitting a pull request is fairly straightforward and generally follows the same pattern each time:
 
-### Scope
-
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
-Support or Contact
+Create a new branch
+Make your changes
+Rebase onto upstream
+Run the tests
+Double check your submission
+Push your changes
+Submit the pull request
+Details about each step are found below.
 
  ### Having trouble with repo? Check out our documentation or contact Support aurangzaib987@gmail.com
