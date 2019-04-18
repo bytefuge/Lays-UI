@@ -1,6 +1,6 @@
 ## Welcome to Lays
 
-  UI components for Android and IOS
+  React native UI components for Android and IOS
   
 ![gn-gift_guide_variable_c](https://user-images.githubusercontent.com/31761132/56380212-047e1b80-622b-11e9-89cb-468b23eeba6c.jpg)
 
