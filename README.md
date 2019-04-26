@@ -8,6 +8,18 @@
 
 Contributors are welcome to work
 
+### Commands 
+
+- `npm start`
+
+- `npm test`
+
+- `npm run lint`
+
+- `npm run lint-fix`
+
+
+
 ### Lays Chips
 
 - [ ] ActivityIndicator Native
