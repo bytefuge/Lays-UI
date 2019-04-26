@@ -8,6 +8,30 @@
 
 Contributors are welcome to work
 
+### Lays Chips
+
+- [ ] ActivityIndicator Native
+- [ ] Button Native
+- [ ] Checkbox Native
+- [ ] Image Native
+- [ ] KeyboardAvoidingView Native
+- [ ] Flatlist Native
+- [ ] ListView Native
+- [ ] Picker Native
+- [ ] Modal Native
+- [ ] ProgressBar Native
+- [ ] RefreshControl Native
+- [ ] SafeAreaView Native
+- [ ] ScrollView Native
+- [ ] SectionList Native
+- [ ] Slider Native
+- [ ] StatusBar Native
+- [ ] Switch Native
+- [ ] Text Native
+- [ ] TextInput Native
+- [ ] Touchable Native
+- [ ] View Native
+
 ## Working with Code
 The process of submitting a pull request is fairly straightforward and generally follows the same pattern each time:
 
