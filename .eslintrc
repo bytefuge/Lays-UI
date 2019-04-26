@@ -36,6 +36,7 @@
     "no-shadow": 0,
     "import/no-named-as-default": 0,
     "no-console": 0,
-    "class-methods-use-this": 0
+    "class-methods-use-this": 0,
+    "react-native/no-raw-text": 0
   }
 }
