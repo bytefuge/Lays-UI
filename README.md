@@ -20,11 +20,11 @@ Contributors are welcome to work
 
 
 
-### Lays Chips
+## Lays Chips
 
-- [x] ActivityIndicator Native
+- ## ActivityIndicator Native
   
-## Available props
+### Available props
 
 | __Name__ | __Type__ | __Default__ |
 |-------------|------------|------------|
