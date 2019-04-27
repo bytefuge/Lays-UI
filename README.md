@@ -23,6 +23,19 @@ Contributors are welcome to work
 ### Lays Chips
 
 - [x] ActivityIndicator Native
+  
+##Props
+/***
+| __Name__ | __Type__ | __Default__ |
+|-------------|------------|------------|
+| color       | String     | #0000ff    |
+| backgroundColor  | String | 'transparent'     |
+| size  | String/Number | 'small'     |
+***/
+
+[ActivityIndicator Porps](https://facebook.github.io/react-native/docs/activityindicator)
+
+
 - [ ] Button Native
 - [ ] Checkbox Native
 - [ ] Image Native
