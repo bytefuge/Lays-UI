@@ -24,14 +24,14 @@ Contributors are welcome to work
 
 - [x] ActivityIndicator Native
   
-##Props
-/***
+## Available props
+
 | __Name__ | __Type__ | __Default__ |
 |-------------|------------|------------|
 | color       | String     | #0000ff    |
 | backgroundColor  | String | 'transparent'     |
 | size  | String/Number | 'small'     |
-***/
+
 
 [ActivityIndicator Porps](https://facebook.github.io/react-native/docs/activityindicator)
 
