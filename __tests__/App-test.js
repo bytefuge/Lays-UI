@@ -1,11 +1,18 @@
+import React from 'react';
 import 'react-native';
 import renderer from 'react-test-renderer';
-import React from 'react';
 
 import App from '../App';
 
-// Note: test renderer must be required after react-native.
+// widget testing 
+
+import ActivityIndicator from '../src/widgets/ActivityIndicator';
 
 it('renders correctly', () => {
   renderer.create(<App />);
+});
+
+it('ActivityIndicator', () => {
+  const tree = renderer.create(<ActivityIndicator />);
+  expect(tree).toMatchSnapshot();
 });

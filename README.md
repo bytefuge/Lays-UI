@@ -22,7 +22,7 @@ Contributors are welcome to work
 
 ### Lays Chips
 
-- [ ] ActivityIndicator Native
+- [x] ActivityIndicator Native
 - [ ] Button Native
 - [ ] Checkbox Native
 - [ ] Image Native

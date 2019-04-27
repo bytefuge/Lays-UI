@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ActivityIndicator 1`] = `
+<ActivityIndicator
+  animating={true}
+  backgroundColor="transparent"
+  color="#0000ff"
+  hidesWhenStopped={true}
+  size="small"
+  style={
+    Array [
+      Object {
+        "backgroundColor": "transparent",
+      },
+    ]
+  }
+/>
+`;
