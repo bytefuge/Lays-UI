@@ -11,7 +11,7 @@
   "dependencies": {
     "react": "16.8.3",
     "react-native": "0.59.5",
-    "styled-components": "^4.2.0"
+    "styled-components": "^4.4.0"
   },
   "devDependencies": {
     "@babel/core": "7.4.3",
